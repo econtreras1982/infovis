@@ -1,1 +1,8 @@
-Palabras
+Protovis
+Stream graph
+Drill-down
+Box-and-whisker plot
+Stem-and-Leaf plot
+Q-Q plot
+SPLOM
+Brushing-and-linking
