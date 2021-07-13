@@ -6,3 +6,8 @@ Stem-and-Leaf plot
 Q-Q plot
 SPLOM
 Brushing-and-linking
+Cartographic projection
+Choropleth Maps
+Phylogenetic tree
+Aesthetic
+Squarified
